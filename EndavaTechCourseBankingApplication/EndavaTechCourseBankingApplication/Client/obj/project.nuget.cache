@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Kzdeo2aSyYSeOjVKEBQFlKqDpS/lJ9fSmW/IU2OlC8Lm+yGTrA13NQev3S7623Mmo9bHsrtQjVGdL76/iD0bTQ==",
+  "dgSpecHash": "/GB5E6AQRNCpiVpdp8mSnukE7pSpoiAAKJnWB+rjwQ54CgGufKWNSgRadg/BLE3AYtIz83jPCpPP+c3YmAns7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\source\\repos\\EndavaTechCourseBankApp\\EndavaTechCourseBankingApplication\\EndavaTechCourseBankingApplication\\Client\\EndavaTechCourseBankingApplication.Client.csproj",
   "expectedPackageFiles": [
@@ -22,12 +22,15 @@
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.localization\\7.0.5\\microsoft.extensions.localization.7.0.5.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\7.0.5\\microsoft.extensions.localization.abstractions.7.0.5.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.jsinterop\\7.0.9\\microsoft.jsinterop.7.0.9.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.9\\microsoft.jsinterop.webassembly.7.0.9.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mudblazor\\6.11.0\\mudblazor.6.11.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
