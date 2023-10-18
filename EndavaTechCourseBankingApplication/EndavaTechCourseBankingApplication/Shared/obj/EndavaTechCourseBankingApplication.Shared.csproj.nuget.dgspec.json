@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\EndavaTechCourseBankApp\\EndavaTechCourseBankingApplication\\EndavaTechCourseBankingApplication\\Shared\\EndavaTechCourseBankingApplication.Shared.csproj": {}
+    "C:\\Users\\User\\source\\repos\\EndavaCourse\\EndavaTechCourseBankingApplication\\EndavaTechCourseBankingApplication\\Shared\\EndavaTechCourseBankingApplication.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\EndavaTechCourseBankApp\\EndavaTechCourseBankingApplication\\EndavaTechCourseBankingApplication\\Shared\\EndavaTechCourseBankingApplication.Shared.csproj": {
+    "C:\\Users\\User\\source\\repos\\EndavaCourse\\EndavaTechCourseBankingApplication\\EndavaTechCourseBankingApplication\\Shared\\EndavaTechCourseBankingApplication.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\EndavaTechCourseBankApp\\EndavaTechCourseBankingApplication\\EndavaTechCourseBankingApplication\\Shared\\EndavaTechCourseBankingApplication.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\EndavaCourse\\EndavaTechCourseBankingApplication\\EndavaTechCourseBankingApplication\\Shared\\EndavaTechCourseBankingApplication.Shared.csproj",
         "projectName": "EndavaTechCourseBankingApplication.Shared",
-        "projectPath": "C:\\Users\\User\\source\\repos\\EndavaTechCourseBankApp\\EndavaTechCourseBankingApplication\\EndavaTechCourseBankingApplication\\Shared\\EndavaTechCourseBankingApplication.Shared.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\EndavaCourse\\EndavaTechCourseBankingApplication\\EndavaTechCourseBankingApplication\\Shared\\EndavaTechCourseBankingApplication.Shared.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\EndavaTechCourseBankApp\\EndavaTechCourseBankingApplication\\EndavaTechCourseBankingApplication\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\EndavaCourse\\EndavaTechCourseBankingApplication\\EndavaTechCourseBankingApplication\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
