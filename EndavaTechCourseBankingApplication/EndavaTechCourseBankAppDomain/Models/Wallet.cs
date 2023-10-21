@@ -13,8 +13,6 @@ namespace EndavaTechCourseBankApplicationDomain.Models
         public String Type { get; set; }
         public Currency Currency { get; set; }
         public decimal Amount { get; set; }
-       
-      
         
     }
 }

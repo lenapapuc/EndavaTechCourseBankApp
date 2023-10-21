@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace EndavaTechCourseBankApplicationDomain.Models
 {
-    internal class CashByCode
+    public class CashByCode : Common.BaseEntity
     {
+        public Wallet SourceWallet { get; set; }
+        public decimal Amount { get; set; }
+        public Currency Currency { get; set; }
+        public decimal Commission { get; set; }
     }
 }
