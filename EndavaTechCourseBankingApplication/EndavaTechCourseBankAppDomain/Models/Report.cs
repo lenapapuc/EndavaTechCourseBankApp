@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace EndavaTechCourseBankApplicationDomain.Models
 {
-    public class Currency : Common.BaseEntity
+    internal class Report
     {
-        public String Name { get; set; }
-        public String CurrencyCode { get; set; }
-        public decimal ExchangeRate { get; set; }
     }
 }

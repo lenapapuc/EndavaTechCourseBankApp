@@ -1,4 +1,4 @@
-﻿namespace EndavaTechCourseBankAppDomain
+﻿namespace EndavaTechCourseBankApplicationDomain
 {
     public class Class1
     {
