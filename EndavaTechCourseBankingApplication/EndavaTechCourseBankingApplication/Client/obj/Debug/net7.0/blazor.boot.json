@@ -201,15 +201,15 @@
       "mscorlib.dll": "sha256-t1RT9mknsQ54H+sVa1vtMhjv3D8ZjiAGoLzHvuIObPw=",
       "netstandard.dll": "sha256-5SHKPh1PcuJjq4lIo7ymdIyhb9d3++oMAjr46auhUSc=",
       "System.Private.CoreLib.dll": "sha256-eH+XIsCUG5oZ0k8AIzNtRLTCLiV\/8Zv0RFCPMsIkdYY=",
-      "EndavaTechCourseBankingApplication.Shared.dll": "sha256-8S3I3T8gUXHU+sgdsb6DnqBZDEjB\/LLDG3IVL6ae5y0=",
-      "EndavaTechCourseBankingApplication.Client.dll": "sha256-mvte4ZTp8Ff+QgfrskXl7ZD3svREBWYqOhhEkDDhNvw="
+      "EndavaTechCourseBankingApplication.Shared.dll": "sha256-\/4OQzdeHnW+TI4z9PgvGNuU5H769Sc7kcl2MoZwMtvE=",
+      "EndavaTechCourseBankingApplication.Client.dll": "sha256-ofQ7oHcbwOgkB\/VkvRyVTive0P44V4S+1boQCroZwmM="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "EndavaTechCourseBankingApplication.Shared.pdb": "sha256-Ri77y0SBbkAEN+Jd3jWLN0DTzP4IcWKWTI2ia6k53eU=",
-      "EndavaTechCourseBankingApplication.Client.pdb": "sha256-zUZSTW1EmdbL0H5GE9LqQMm3Kwr0QqslFW5G8uqfusI="
+      "EndavaTechCourseBankingApplication.Shared.pdb": "sha256-5Hps68GuW+VtlfNgUW\/lX9LfzLJ1FtPJqMNFZD4FhkU=",
+      "EndavaTechCourseBankingApplication.Client.pdb": "sha256-UJjhlYUGRe4mMzuV9\/EVH7pfDnSaQ+9ZboXlEX\/jNjA="
     },
     "runtime": {
       "dotnet.7.0.9.5gvxdw5sfu.js": "sha256-dUIY5Mz0ozZWqtTfBb7ArJKbdh5IIp8BXeq6UjK4u\/c=",
